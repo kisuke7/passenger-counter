@@ -16,5 +16,4 @@ function save() {
     countEl.innerText = 0
 
     count = 0
-
 }
